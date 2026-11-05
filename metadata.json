@@ -1,0 +1,8 @@
+{
+  "name": "Goodspot - Café & Restaurant Finder",
+  "description": "Discover nearby cafés, bakeries, and restaurants by location and cravings with an interactive map, live open status, ratings, and instant directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
